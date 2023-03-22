@@ -13,75 +13,38 @@ code {
 }
 .App{
   font-family: sans-serif;
+}
+.app1{
+  height: fit-content;
+  width: fit-content;
+}
+.app2{
+  margin-top:-123px;
+  position:relative;align-items:flex-start
 
+  }
+.app3{
+    position: relative;
+    text-align: left;
+    }
+.logo{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  padding-top: 30px;
+  padding-left: 100px;
+}
+.sum,.exp1,.edu1,.skill1,.decl1 {
+  padding-left: 50px;
+}
+.sum1,.exp3,.exp4,.edu2,.edu5,.edu9,.skill2,.decl2{
+  padding-left: 100px;
 }
 b{
-  font-size: large;
-  color: green;
+  color:green;
 }
-h4{
-  color: black;
-}
-.sidetag{
-  font-size:17px;
-  color: green;
-  margin-right: 1200px;
-  
-}
-.c1{
-  margin-left: 60px;
-}
-.sum{
-  margin-left: 200px;
-  text-align:start;
-  width: 1200px;
-}
-.da{
-  font-size:16px;
-}
-.psum{
-  margin-left: 100px;
-}
-.psum1{
-  margin-left: 100px;
-
-}
-.edu1{
-  margin-left: 50px;
-  color: green;
-
-}
-.edu2{
-  margin-right: 1300px;
-  color: green;
-
-}
-.dates{
-  color: green;
-  margin-left: 150px;
-
-}
-.eduu{
-  margin-left: 200px;
-}
-.skcontainer1{
-  margin-left: 200px;
-}
-.skcontainer2{
-  margin-left: 600px;
+.skill3{
+  margin-left: 350px;
   margin-top: -100px;
 }
-.decler{
-  margin-left: 150px;
-  color: black;
-}
-.Profile{
-  margin-top: -1330px;
-  margin-left: 50px;
-  height: 120px;
-  width: 120px;
- border-radius: 50%;
-}
-.wqe{
-  height: 50px;
-}
+

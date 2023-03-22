@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import Education from './Education';
 import Skills from './Skills';
 import Declaration from './Declaration';
-import Profile from './Profile';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,7 +17,6 @@ root.render(
     <Education />
     <Skills />
     <Declaration />
-    <Profile />
   </React.StrictMode>
 );
 
