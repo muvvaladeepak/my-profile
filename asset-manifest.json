@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/muvvaladeepak/my-profile/static/css/main.19a873d9.css",
+    "main.js": "/muvvaladeepak/my-profile/static/js/main.7d5c25be.js",
+    "static/js/787.deaa38e7.chunk.js": "/muvvaladeepak/my-profile/static/js/787.deaa38e7.chunk.js",
+    "static/media/deepak.jpg": "/muvvaladeepak/my-profile/static/media/deepak.f0fe2fcbfa42cd14345b.jpg",
+    "index.html": "/muvvaladeepak/my-profile/index.html",
+    "main.19a873d9.css.map": "/muvvaladeepak/my-profile/static/css/main.19a873d9.css.map",
+    "main.7d5c25be.js.map": "/muvvaladeepak/my-profile/static/js/main.7d5c25be.js.map",
+    "787.deaa38e7.chunk.js.map": "/muvvaladeepak/my-profile/static/js/787.deaa38e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a873d9.css",
+    "static/js/main.7d5c25be.js"
+  ]
+}
