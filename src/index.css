@@ -14,15 +14,6 @@ code {
 .App{
   font-family: sans-serif;
 }
-.app1{
-  height: fit-content;
-  width: fit-content;
-}
-.app2{
-  margin-top:-123px;
-  position:relative;align-items:flex-start
-
-  }
 .app3{
     position: relative;
     text-align: left;
@@ -31,20 +22,4 @@ code {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  padding-top: 30px;
-  padding-left: 100px;
 }
-.sum,.exp1,.edu1,.skill1,.decl1 {
-  padding-left: 50px;
-}
-.sum1,.exp3,.exp4,.edu2,.edu5,.edu9,.skill2,.decl2{
-  padding-left: 100px;
-}
-b{
-  color:green;
-}
-.skill3{
-  margin-left: 350px;
-  margin-top: -100px;
-}
-
