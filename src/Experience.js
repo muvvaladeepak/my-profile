@@ -10,8 +10,8 @@ return(
              <b>ASSOCIATE SOFTWARE ENGINEER, TORRY HARRIS BUSINESS SOLUTIONS</b>
              <ul className='exp4'>
                 <li>Worked as an associate software engineer.</li>
-                <li>Worked on a Support role for java project.</li>
-                <li>Worked on java spring-boot.</li>
+                <li>Worked on a React.js.</li>
+                <li>Worked on Bootstrap.</li>
                 <li>Having good knowledge of Git and AWS.</li>
              </ul>
                      I have done python basics certification by apssdc. I do have good knowledge on using eclipse,

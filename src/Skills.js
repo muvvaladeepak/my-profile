@@ -19,7 +19,7 @@ function Skills(){
              <li>SQL</li>
              <li>AWS(ec2,s3,IAM)</li>
              <li>GitHub</li>
-             <li>Docker </li>
+             <li>Bootstrap </li>
         </ul> 
     </div>
   </div>
