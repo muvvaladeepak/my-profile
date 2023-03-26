@@ -6,23 +6,15 @@ function App() {
     <div className="App">
       <div className="row">
           <div className="col-2"><img src={logo} className="logo" alt=''/></div>
-          <div className="col-8"><h1>DEEPAK MUVVALA</h1>
-        <h4><b>Email :</b>muvvaladeepak72@gmail.com <b>Phone :</b>+91 6303674755</h4>
-        <h4><b>GitHub :</b>https://github.com/muvvaladeepak</h4>
+          <div className="col-10"><h1>DEEPAK MUVVALA</h1>
+        <div className="cal-4"><b>Email :</b>muvvaladeepak72@gmail.com </div>
+        <div className="cal-4"><b>Phone :</b>+91 6303674755</div>
+        <div className="cal-4"><b>GitHub :</b>https://github.com/muvvaladeepak</div>
         <hr /></div>
           
       </div>
-     
-      <div className='app1'>
-        
-      </div>
-      <div className='app2'>
-        
-      </div>
       <div className="app3">
-        <div className="row">
-              <div className="col-md-1 offset-md-1"><h2>Summary:</h2></div>
-              <div className='row'>
+              <div className="col-md-6 offset-md-1"><h2>Summary:</h2></div>
               <div className="col-md-9 offset-md-2">Start by stating your level of proficiency with each technology (e.g. "Proficient in HTML and CSS, and experienced with React").
                Highlight any projects you have worked on using these technologies, and describe your role and responsibilities in each project.
                Mention any specific skills or tools you have used within each technology, such as CSS frameworks or React libraries.
@@ -33,8 +25,6 @@ function App() {
         </div>
               </div>
 
-      </div>
-    </div>
   );
 }
 export default App;

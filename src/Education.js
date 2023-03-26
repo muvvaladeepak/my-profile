@@ -3,7 +3,7 @@ import './App.css';
 function Education (){
 return(
 <div className='Education'>
-    <h2 className="col-md-2 offset-md-1">Education :</h2>
+    <h2 className="col-md-2 offset-md-1">Education:</h2>
     <div className='col-md-6 offset-md-2'>
        <div className='edu3'><b>JUN 2017-JJULY 2021</b></div>
        <div className='edu4'>BTECH, MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY.

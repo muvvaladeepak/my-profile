@@ -5,8 +5,8 @@ function Skills(){
 <div className='col-md-6 offset-md-1'>
     <div className="skill1"><h2>Skills :</h2></div>
     <div className='col-md-6 offset-md-2'>
-    <div class="row justify-content-around">
-    <div class="col-4">
+    <div className="row justify-content-around">
+    <div className="col-4">
     <ul>
             <li>java(Springboot)</li>
             <li>Javascript</li>
@@ -14,7 +14,7 @@ function Skills(){
             <li>CSS3</li>
         </ul> 
     </div>
-    <div class="col-4">
+    <div className="col-4">
     <ul>
              <li>SQL</li>
              <li>AWS(ec2,s3,IAM)</li>
